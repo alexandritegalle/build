@@ -1,0 +1,16 @@
+{
+  "name": "angular-login",
+  "version": "1.0.0",
+  "description": "test node js in azure",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9",
+    "tedious": "^3.0.1"
+  }
+}
